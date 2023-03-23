@@ -1,0 +1,134 @@
+{
+  "name": "André Alyson",
+  "description": "Dev front-end junior",
+  "github": "AndreAlyson",
+  "playlists": {
+    "jogos": [
+        {
+          "title": "ps1co short montage #1",
+          "url": "https://www.youtube.com/watch?v=jwwtWfHmt3E",
+          "thumb": "https://i.ytimg.com/vi/jwwtWfHmt3E/maxresdefault.jpg"
+        },
+        {
+          "title": "[ps1co] torrada",
+          "url": "https://www.youtube.com/watch?v=gqvN0LHw5PU",
+          "thumb": "https://i.ytimg.com/vi/gqvN0LHw5PU/maxresdefault.jpg"
+        },
+        {
+          "title": "[ps1co PUBG] ?",
+          "url": "https://www.youtube.com/watch?v=GRzKUtLZPAU",
+          "thumb": "https://i.ytimg.com/vi/GRzKUtLZPAU/maxresdefault.jpg"
+        },
+        {
+          "title": "AMOR PQ VC ME TRATA ASSIM",
+          "url": "https://www.youtube.com/watch?v=F8Sam8lBj8I",
+          "thumb": "https://i.ytimg.com/vi/F8Sam8lBj8I/maxresdefault.jpg"
+        },
+        {
+          "title": "İlkay Gündoğan – My Football Manager Timeline",
+          "url": "https://www.youtube.com/watch?v=q1RJKhY0CiA",
+          "thumb": "https://i.ytimg.com/vi/q1RJKhY0CiA/maxresdefault.jpg"
+        },
+        {
+          "title": "FOOTBALL MANAGER DO ZERO: EPISÓDIO 1 ",
+          "url": "https://www.youtube.com/watch?v=bNbOzSGTgfw",
+          "thumb": "https://i.ytimg.com/vi/bNbOzSGTgfw/maxresdefault.jpg"
+        },
+        {
+          "title": "do PRATA ao GLOBAL #1 (FalleN CSGO)",
+          "url": "https://www.youtube.com/watch?v=v1Ets4Va6t0&t=161s",
+          "thumb": "https://i.ytimg.com/vi/v1Ets4Va6t0/maxresdefault.jpg"
+        },
+        {
+          "title": "NEW BEGINNING | Part 1 | JUVENTUS | Non-League to Legend FM23",
+          "url": "https://www.youtube.com/watch?v=HUbufZSyHEM",
+          "thumb": "https://i.ytimg.com/vi/HUbufZSyHEM/maxresdefault.jpg"
+        }
+      ],
+    "front-end": [
+      {
+        "title": "Desafios que fiz para me tornar um dev júnior",
+        "url": "https://www.youtube.com/watch?v=PJeqAHHlIIk&t=1s",
+        "thumb": "https://i.ytimg.com/vi/PJeqAHHlIIk/maxresdefault.jpg"
+      },
+      {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+      },
+      {
+        "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+        "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+        "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+      },
+      {
+        "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+        "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+        "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+      },
+      {
+        "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+        "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+      },
+      {
+        "title": "Como Foi Programado um App Que Faz Mágica",
+        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+      },
+      {
+        "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+        "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+        "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+      },
+      {
+        "title": "5 Erros Históricos do CSS",
+        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+      },
+      {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      },
+      
+      {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+      },
+      {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+      },
+      {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      },
+      {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ]
+  }
+}
