@@ -44,13 +44,6 @@ export const StyledRegisterVideo = styled.div`
     z-index: 100;
     display: flex;
     justify-content: center;
-    & > div {
-      flex: 1;
-      border-radius: 8px;
-      max-width: 320px;
-      background-color: ${({ theme }) => theme.backgroundLevel2};
-      display: flex;
-      justify-content: center;
       & > div {
         flex: 1;
         border-radius: 8px;
@@ -62,7 +55,6 @@ export const StyledRegisterVideo = styled.div`
         padding: 16px;
         padding-top: 40px;
       }
-    }
   }
       input {
         border-radius: 2px;
@@ -71,7 +63,7 @@ export const StyledRegisterVideo = styled.div`
         margin-bottom: 10px;
         outline: none;
         color: #222222;
-        background-color: #f9f9f9;
+        background-color: #222222;
         color:${({ theme }) => theme.textColorBase};
       }
 `;
