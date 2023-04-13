@@ -3,9 +3,32 @@ import config from "../config.json";
 import styled from "styled-components";
 import Menu from '../src/components/Menu';
 import { StyledTimeline } from '../src/components/timeline';
+import { createClient } from '@supabase/supabase-js';
+import { videoServices } from '../src/services/videoService';
+
+
 
 function HomePage() {
+  const service = videoServices();
     const [valorDoFiltro, setValorDoFiltro] = React.useState("");
+    const [playlists, setPlaylists] = React.useState({}); // config.playlists
+
+  React.useEffect(() => {
+    console.log("useEffect")
+    service.getAllVideos()
+    .then((dados) => {
+      console.log(dados.data);
+      const novasPlaylists = {...playlists};
+      dados.data.forEach(video => {
+        if(!novasPlaylists[video.playlist]) novasPlaylists[video.playlist] = [];
+          novasPlaylists[video.playlist].push(video);
+        })
+        setPlaylists({novasPlaylists});
+      });
+
+  }, []);
+
+  console.log("Playlists Pronto", playlists)
 
   return (
     <>
@@ -84,8 +107,6 @@ function Timeline({searchValue, ...propriedades}) {
     <StyledTimeline>
       {playlistNames.map((playlistName) => {
         const videos = propriedades.playlists[playlistName];
-        //console.log(playlistName);
-        //console.log(videos);
         return (
           <section key={playlistName}>
             <h2>{playlistName}</h2>
