@@ -48,8 +48,8 @@ export default function DarkModeSwitch() {
         className="darkMode-switch"
       >
 
-        <span>🌙</span>
         <span>☀️</span>
+        <span>🌙</span>
       </label>
     </StyledSwitch>
   )
