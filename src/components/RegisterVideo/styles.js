@@ -44,11 +44,11 @@ export const StyledRegisterVideo = styled.div`
     z-index: 100;
     display: flex;
     justify-content: center;
-      & > div {
+    & > div {
         flex: 1;
         border-radius: 8px;
         max-width: 320px;
-        background-color: ${({ theme }) => theme.backgroundLevel2};
+        background-color: ${({ theme }) => theme.backgroundBase};
         display: flex;
         flex-direction: column;
         position: relative;
@@ -63,7 +63,8 @@ export const StyledRegisterVideo = styled.div`
         margin-bottom: 10px;
         outline: none;
         color: #222222;
-        background-color: #222222;
+        background-color: #f9f9f9;
         color:${({ theme }) => theme.textColorBase};
+        background-color: ${({ theme }) => theme.backgroundBase};
       }
 `;
